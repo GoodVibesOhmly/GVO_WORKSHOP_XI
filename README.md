@@ -16,4 +16,4 @@ New major projects coming soon, subscribe to the mailing list to stay up to date
 
 ## Video
 
-![youtube](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+[youtube](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
